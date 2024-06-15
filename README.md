@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Banner](https://user-images.githubusercontent.com/12345678/123456789-banner-image.jpg)
+![Profile Banner](https://github.com/mayen5/assets/blob/main/profile.jpg)
 
 Soy un apasionado Ingeniero de Software FullStack con amplia experiencia en tecnologías modernas de desarrollo. Actualmente, formo parte del equipo de Walmart a través de BDG, S.A., donde contribuyo al desarrollo de soluciones innovadoras que impactan en el comercio global.
 
@@ -61,4 +61,4 @@ I'm a passionate FullStack Software Engineer with extensive experience in modern
 
 ---
 
-![Footer Banner](https://user-images.githubusercontent.com/12345678/123456789-footer-image.jpg)
+![Footer Banner](https://github.com/mayen5/assets/blob/main/footer.jpg)
