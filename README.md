@@ -47,7 +47,6 @@ I'm a FullStack Software Engineer with extensive experience in modern developmen
 
 ## 📊 Estadísticas de GitHub | GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=mayen5&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayen5&show_icons=true&theme=radical)
 
 ---
