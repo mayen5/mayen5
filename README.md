@@ -4,11 +4,11 @@
 
 ---
 
-Soy un apasionado Ingeniero de Software FullStack con amplia experiencia en tecnologías modernas de desarrollo. Actualmente, formo parte del equipo de Walmart a través de BDG, S.A., donde contribuyo al desarrollo de soluciones innovadoras que impactan en el comercio global.
+Soy Ingeniero de Software FullStack con amplia experiencia en tecnologías modernas de desarrollo. Actualmente, formo parte del equipo de Walmart a través de BDG, S.A., donde contribuyo al desarrollo de soluciones innovadoras que impactan en el comercio global.
 
 ---
 
-I'm a passionate FullStack Software Engineer with extensive experience in modern development technologies. Currently, I am part of the Walmart team through BDG, S.A., where I contribute to developing innovative solutions that impact global commerce.
+I'm a FullStack Software Engineer with extensive experience in modern development technologies. Currently, I am part of the Walmart team through BDG, S.A., where I contribute to developing innovative solutions that impact global commerce.
 
 ---
 
@@ -22,6 +22,7 @@ I'm a passionate FullStack Software Engineer with extensive experience in modern
 
 ### Frontend
 - **React**
+- **Angular**
 - **HTML5**
 - **CSS3**
 - **SASS**
@@ -55,6 +56,6 @@ I'm a passionate FullStack Software Engineer with extensive experience in modern
 
 - **Correo Electrónico | Email:** [carmelo5mayen@gmail.com](mailto:carmelo5mayen@gmail.com)
 - **LinkedIn:** [Carmelo Mayém](https://linkedin.com/in/mayen5)
-- **Página Web | Website:** [https://cemayen.com](https://cemayen.com)
+- **Página Web | Website:** [https://cv.cemayen.com](https://cv.cemayen.com)
 
 ---
